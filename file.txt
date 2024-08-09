@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Initial content
 Feature added
+=======
+Line 1
+>>>>>>> 36605d85907351ff83f8e315543e88064952a924
